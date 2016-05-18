@@ -1,5 +1,7 @@
 # Sinatra::Pundit
 
+[![Gem Version](https://badge.fury.io/rb/sinatra-pundit.svg)](https://badge.fury.io/rb/sinatra-pundit)
+
 A lightweight wrapper for the [Pundit](https://github.com/elabs/pundit) authorization gem. Provides authorization Pundit's helpers to use in Sinatra applications.
 
 ## Installation
