@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "sinatra-pundit"
   spec.version       = Sinatra::Pundit::VERSION
   spec.authors       = ["Sergio Martín Morillas"]
-  spec.email         = ["smartin@flexiant.com"]
+  spec.email         = ["smartinmorillas@gmail.com"]
 
   spec.summary       = %q{Pundit authorization wrapper for Sinatra.}
   spec.description   = %q{Minimal authorization through OO design and pure Ruby classes in your Sinatra application.}
